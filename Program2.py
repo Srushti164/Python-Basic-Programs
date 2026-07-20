@@ -24,9 +24,3 @@ if a>=b:
 else:
     print("False")
 
-#python program to calculate area of square
-
-side=input("Enter the side of square:")
-area=int(side)**2
->>>>>>> 5c8b1ea0effd6849880f1e9761af1765b405fe7f
-print("Area of square is:",area)
